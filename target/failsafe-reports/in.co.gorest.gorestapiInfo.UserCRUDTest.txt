@@ -1,0 +1,16 @@
+-------------------------------------------------------------------------------
+Test set: in.co.gorest.gorestapiInfo.UserCRUDTest
+-------------------------------------------------------------------------------
+Tests run: 10, Failures: 0, Errors: 2, Skipped: 0, Time elapsed: 13.2 sec <<< FAILURE! - in in.co.gorest.gorestapiInfo.UserCRUDTest
+test006(in.co.gorest.gorestapiInfo.UserCRUDTest)  Time elapsed: 0.691 sec  <<< ERROR!
+java.lang.IndexOutOfBoundsException: Index: 0, Size: 0
+	at java.util.ArrayList.rangeCheck(ArrayList.java:653)
+	at java.util.ArrayList.get(ArrayList.java:429)
+	at in.co.gorest.gorestapiInfo.UserCRUDTest.test006(UserCRUDTest.java:84)
+
+test007(in.co.gorest.gorestapiInfo.UserCRUDTest)  Time elapsed: 0.683 sec  <<< ERROR!
+java.lang.IndexOutOfBoundsException: Index: 0, Size: 0
+	at java.util.ArrayList.rangeCheck(ArrayList.java:653)
+	at java.util.ArrayList.get(ArrayList.java:429)
+	at in.co.gorest.gorestapiInfo.UserCRUDTest.test007(UserCRUDTest.java:92)
+
