@@ -1,7 +1,5 @@
 package in.co.gorest.models;
-/* 
- Created by Kalpesh Patel
- */
+
 
 public class GoRestPojo {
     private String name;
