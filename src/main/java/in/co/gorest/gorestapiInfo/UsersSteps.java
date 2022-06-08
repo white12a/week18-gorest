@@ -1,7 +1,5 @@
 package in.co.gorest.gorestapiInfo;
-/* 
- Created by Kalpesh Patel
- */
+
 
 import in.co.gorest.constants.EndPoints;
 import in.co.gorest.models.GoRestPojo;
