@@ -1,7 +1,5 @@
 package in.co.gorest.gorestapiInfo;
-/* 
- Created by Kalpesh Patel
- */
+
 
 import in.co.gorest.testbase.TestBase;
 import in.co.gorest.utils.TestUtils;
