@@ -1,7 +1,5 @@
 package in.co.gorest.testbase;
-/* 
- Created by Kalpesh Patel
- */
+
 
 
 import in.co.gorest.utils.PropertyReader;
