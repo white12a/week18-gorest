@@ -1,7 +1,5 @@
 package in.co.gorest.utils;
-/* 
- Created by Kalpesh Patel
- */
+
 
 import java.io.FileInputStream;
 import java.util.Properties;
