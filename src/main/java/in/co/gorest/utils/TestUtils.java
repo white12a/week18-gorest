@@ -1,7 +1,4 @@
 package in.co.gorest.utils;
-/* 
- Created by Kalpesh Patel
- */
 
 import java.util.Random;
 
